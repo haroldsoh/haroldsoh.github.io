@@ -12,14 +12,14 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    # - title: 'Blog'
-    #   url: '/blog/'
     - title: 'About'
       url: '/about/'
     - title: 'Publications'
       url: '/publications/'
     - title: 'Contact'
       url: '/contact/'
+    # - title: 'Blog'
+    #   url: '/blog/'
     # - title: 'Elements'
     #   url: '/elements/'
 
@@ -78,16 +78,17 @@ portfolio:
 
 #-------------------------------
 # Subscribe Settings
-mailchimp:
-  mailchimp__title: Get updates and digital art inspiration # Add your Title
-  mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
-  mailchimp__button__text: Subscribe # Add your button text.
-  mailchimp__bg__color: "#f2eef8" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8" (You can generate any color here - https://htmlcolorcodes.com/).
+# mailchimp:
+#    mailchimp__title: Get updates and digital art inspiration # Add your Title
+#    mailchimp__identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+#    mailchimp__button__text: Subscribe # Add your button text.
+#    mailchimp__bg__color: "#f2eef8" # To change the color of the figure, add a hexadecimal color code (HEX). For example - "#f2eef8" (You can generate any color here - https://htmlcolorcodes.com/).
 
 
 #-------------------------------
 # Footer Settings
 social:
+- {icon: "ion-logo-google", color: "#55acee", label: Google Scholar, link: "https://scholar.google.com/citations?user=lkgd1BsAAAAJ&hl=en"}
 - {icon: "ion-logo-github", color: "#24292e", label: Github, link: "https://github.com/clear-nus"}
 - {icon: "ion-logo-twitter", color: "#55acee", label: Twitter, link: "https://twitter.com"}
 - {icon: "ion-logo-facebook", color: "#3b5999", label: Facebook, link: "https://facebook.com"}
