@@ -1,12 +1,14 @@
 current:
   - date: 5 Jul 2021
-    description: <span class="name">Harold</span> will giving an invited talk on Event Tactile Perception at <a target="_blank" href="https://sites.google.com/view/tellurideneuromorphic2021/">Telluride 2021</a>. 
+    description: I'll be a Associate Editor at the <a target="_blank" href="https://dl.acm.org/journal/thri">ACM Transactions on Human-Robot Interaction</a> (the premier journal for HRI)
+  - date: 5 Jul 2021
+    description: I will giving an invited talk on Event Tactile Perception at <a target="_blank" href="https://sites.google.com/view/tellurideneuromorphic2021/">Telluride 2021</a>. 
   - date: 4 Jul 2021
-    description: <span class="name">Harold</span> was awarded the <span class="award">NUS Annual Teaching Excellence Award (ATEA)</span> 2021. 
+    description: I was awarded the <span class="award">NUS Annual Teaching Excellence Award (ATEA)</span> 2021. 
   - date: 1 Jul 2021
     description: Our work on <a target="_blank" href="https://arxiv.org/abs/2106.00489">Extended Tactile Perception via Vibration Sensing</a> by <span class="name">Tas</span>, <span class="name">Shui Song</span>, and <span class="name">Eugene</span> was just accepted to <a target="_blank" href="http://www.iros2021.org/">IROS 2021</a>! Joint work with our collaborators Hian Hian and Benjamin Tee.
   - date: 10 Apr 2021
-    description: <span class="name">Harold</span> was awarded a <span class="award">Faculty Teaching Excellence Award</span> for 2019/20! (Third year in a row). 
+    description: I was awarded a <span class="award">Faculty Teaching Excellence Award</span> for 2019/20! (Third year in a row). 
   - date: 01 Mar 2021
     description: Our work on <a target="_blank" href="https://arxiv.org/abs/2101.11981">Embedding Symbolic Temporal Knowledge into Deep Sequential Models</a> by <span class="name">Yaqi</span> was just accepted to <a target="_blank" href="http://www.icra2021.org/">ICRA 2021</a>!
   - date: 01 Mar 2021
@@ -32,7 +34,7 @@ current:
   - date: 06 May 2020
     description: Our work on <a target="_blank" href="http://www.roboticsproceedings.org/rss16/p020.pdf">Visual + Tactile Event-Driven Perception</a> was just accepted to <a target="_blank" href="https://roboticsconference.org/">RSS 2020</a>!
   - date: 28 Feb 2020
-    description: <span class="name">Harold</span> was awarded a <span class="award">Faculty Teaching Excellence Award</span> for 2018/19!
+    description: I was awarded a <span class="award">Faculty Teaching Excellence Award</span> for 2018/19!
   - date: 24 Feb 2020
     description: Our work on <a target="_blank" href="https://arxiv.org/abs/1909.07425">deep generative modeling via characteristic functions</a> was just accepted at <a target="_blank" href="http://cvpr2020.thecvf.com/">CVPR 2020</a> and selected for <span class="award">oral presentation</span>!
   - date: 12 Jan 2020
