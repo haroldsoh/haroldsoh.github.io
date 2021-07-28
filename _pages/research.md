@@ -22,9 +22,10 @@ I believe better robot behavior can be achieved by improving robot perception an
 - *Best Long Paper Award Runner-up*, [Generation Meets Recommendation: Proposing Novel Items for Groups of Users](https://arxiv.org/abs/1808.01199){:target="_blank"}, ACM Recommender Systems (RecSys), 2018.
 - *SMART Postdoctoral Scholar Fellowship Award*, Singapore-MIT Alliance, 2014
 - *Best Cognitive Robotics Paper Finalist*, [Online Spatio-Temporal Gaussian Process Experts with Application to Tactile Classification](https://spiral.imperial.ac.uk/bitstream/10044/1/12658/4/iros2012.pdf){:target="_blank"}, IEEE/RSJ Intelligent Robots and Systems (IROS), 2012. 
-- *Design London Fellow*, 2012
-- *Khazanah Global Scholarship*, 2009-2013
-- *Regents Scholarship*, University of California, 2000-2004
+- *Design London Fellow*, 2012.
+- *James Dyson National Award Finalist (UK)*, 2012.
+- *Khazanah Global Scholarship*, 2009-2013.
+- *Regents Scholarship*, University of California, 2000-2004.
 
 ### Invited Talks
 
