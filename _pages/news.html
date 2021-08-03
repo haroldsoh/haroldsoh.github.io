@@ -1,0 +1,29 @@
+---
+layout: default
+image: '/images/01.jpg'
+---
+
+<!-- begin page -->
+
+<div class="container">
+ <div class="row">
+    <div class="col col-12">
+      <h1>News</h1>
+      	<ul>
+      		<div class="wrap" style="margin-top: 10px;">
+	{% for news in site.data.news.current %}
+	<div style="display: flex; align-items: center; margin-top: 20px;">
+		<p style="margin: 0; padding: 0; width: 120px; color: #abb7b7; font-size: 15px; font-weight: 700; padding-right: 10px; text-align: right;">{{ news.date }}</p>
+		<p style="margin: 0; padding: 0; width: 100%; border-left: 2px solid #f4f5f6; padding-left: 10px;">{{ news.description }}</p>
+	</div>
+	{% endfor %}
+</div>
+      	</ul>
+    </div>
+  </div>
+</div>
+
+
+
+
+<!-- end page -->
