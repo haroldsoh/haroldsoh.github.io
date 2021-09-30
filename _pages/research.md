@@ -24,6 +24,7 @@ Most of my work in the past few years has centered on these two topics. Together
 
 ### Research Awards
 
+- *Best Paper Award*, Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. 
 - *Best Paper Award Finalist*, [The Transfer of Human Trust in Robot Capabilities across Tasks](https://clear-nus.github.io/blog/multi-task-trust){:target="_blank"}, Robotics Science and Systems (RSS), 2018. 
 - *Best Paper Award Finalist*, [Planning with Trust for Human Robot Collaboration](https://arxiv.org/abs/1801.04099){:target="_blank"}, ACM/IEEE Human Robot Interaction (HRI), 2018.
 - *Best Long Paper Award Runner-up*, [Generation Meets Recommendation: Proposing Novel Items for Groups of Users](https://arxiv.org/abs/1808.01199){:target="_blank"}, ACM Recommender Systems (RecSys), 2018.
