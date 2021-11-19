@@ -1,0 +1,49 @@
+---
+layout: page
+title: CV
+permalink: /cv/
+image: 
+---
+
+Links: [Short 2-page CV]() or [Long CV]()
+
+## Brief Biography
+
+Harold Soh is an Assistant Professor in the Department of Computer Science at the National University of Singapore (NUS), where he directs the Collaborative Learning and Adaptive Robots (CLeAR) group. Harold completed his Ph.D. at Imperial College London with Yiannis Demiris on online learning for assistive robots.
+
+Harold's current research focuses on machine learning and decision-making for trustworthy collaborative robots. His work, which spans cognitive modeling (e.g., human trust) to physical systems (tactile perception with novel e-skins), has been recognized with a best paper award at IROS'21 and nominations at RSS'18, HRI'18, RecSys'18, and IROS'12.
+
+He has served on the HRI committee as LBR Co-Chair (2019) and on the Technical Advances PC as a member (2020/22) and chair (2021). He is an Associate Editor of the ACM Transactions on Human Robot Interaction and Robotics Automation and Letters. He regularly serves as PC member or reviewer for the top publication venues in AI (NeurIPS, ICLR, AAAI, IJCAI) and robotics (ICRA, IROS, RSS, HRI).
+
+Harold lives in Singapore with his wife, an anesthesiologist, and two rambunctious children. In his free time (about ten minutes before bed), he enjoys reading science fiction with a glass of wine.
+
+## Awards:
+
+| Year      | Award | Comment |
+|----------- | ----------- | ------ |
+| 2021      | IEEE/RSJ IROS Best Paper Award       | Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects |
+| 2020      | Annual Teaching Excellence Award (ATEA)       | University Level Teaching Award |
+| 2020      | Faculty Teaching Excellence Award (FTEA)       |  |
+| 2019      | Faculty Teaching Excellence Award (FTEA)       |  |
+| 2018   | RSS Best Paper Award Finalist       | [The Transfer of Human Trust in Robot Capabilities across Tasks](https://clear-nus.github.io/blog/multi-task-trust){:target="_blank"} |
+| 2018   | ACM/IEEE HRI Best Paper Award Finalist       | [Planning with Trust for Human Robot Collaboration](https://arxiv.org/abs/1801.04099){:target="_blank"} |
+| 2018   | ACM RecSys Best Long Paper Award Runner-up    | [Generation Meets Recommendation: Proposing Novel Items for Groups of Users](https://arxiv.org/abs/1808.01199){:target="_blank"} |
+| 2018      | Faculty Teaching Excellence Award (FTEA)       |  |
+| 2014-2016   | SMART Postdoctoral Scholar Fellowship Award    |  Singapore-MIT Alliance for Research and Technology |
+| 2012-2013 | Design London Fellow | Imperial-RCA Fellowships  |
+| 2012 | James Dyson National Award Finalist (UK) |  [Assistive Robotic Transport for Youngsters (ARTY)](https://www.technologyreview.com/2012/09/28/183560/a-smart-safe-wheelchair-for-kids-who-cant-walk/) |
+| 2012 | IEEE/RSJ IROS Best Cognitive Robotics Paper Finalist | [Online Spatio-Temporal Gaussian Process Experts with Application to Tactile Classification](https://spiral.imperial.ac.uk/bitstream/10044/1/12658/4/iros2012.pdf){:target="_blank"} |
+| 2009-2013 | Khazanah Global Scholarship | Khazanah Foundation Malaysia |
+| 2000-2004 | Regents Scholarship | University of California, Davis |
+
+
+<!-- - *Best Paper Award*, Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. 
+- *Best Paper Award Finalist*, [The Transfer of Human Trust in Robot Capabilities across Tasks](https://clear-nus.github.io/blog/multi-task-trust){:target="_blank"}, Robotics Science and Systems (RSS), 2018. 
+- *Best Paper Award Finalist*, [Planning with Trust for Human Robot Collaboration](https://arxiv.org/abs/1801.04099){:target="_blank"}, ACM/IEEE Human Robot Interaction (HRI), 2018.
+- *Best Long Paper Award Runner-up*, [Generation Meets Recommendation: Proposing Novel Items for Groups of Users](https://arxiv.org/abs/1808.01199){:target="_blank"}, ACM Recommender Systems (RecSys), 2018.
+- *SMART Postdoctoral Scholar Fellowship Award*, Singapore-MIT Alliance, 2014
+- *Best Cognitive Robotics Paper Finalist*, [Online Spatio-Temporal Gaussian Process Experts with Application to Tactile Classification](https://spiral.imperial.ac.uk/bitstream/10044/1/12658/4/iros2012.pdf){:target="_blank"}, IEEE/RSJ Intelligent Robots and Systems (IROS), 2012. 
+- *Design London Fellow*, 2012.
+- *James Dyson National Award Finalist (UK)*, 2012.
+- *Khazanah Global Scholarship*, 2009-2013.
+- *Regents Scholarship*, University of California, 2000-2004. -->
