@@ -9,13 +9,13 @@ Links: [Long CV]({% link files/haroldsoh_cv.pdf %})
 
 ## Brief Biography
 
-Harold Soh is an Assistant Professor in the Department of Computer Science at the National University of Singapore (NUS), where he directs the Collaborative Learning and Adaptive Robots (CLeAR) group. Harold completed his Ph.D. at Imperial College London with Yiannis Demiris on online learning for assistive robots.
+Harold Soh is an Assistant Professor in the Department of Computer Science at the National University of Singapore (NUS), where he directs the Collaborative Learning and Adaptive Robots (CLeAR) group. Harold completed his Ph.D. at Imperial College London on online learning for assistive robots.
 
 Harold's current research focuses on machine learning and decision-making for trustworthy collaborative robots. His work, which spans cognitive modeling (e.g., human trust) to physical systems (tactile perception with novel e-skins), has been recognized with a best paper award at IROS'21 and nominations at RSS'18, HRI'18, RecSys'18, and IROS'12.
 
 He has served on the HRI committee as LBR Co-Chair (2019) and on the Technical Advances PC as a member (2020/22) and chair (2021). He is an Associate Editor of the ACM Transactions on Human Robot Interaction and Robotics Automation and Letters. He regularly serves as PC member or reviewer for the top publication venues in AI (NeurIPS, ICLR, AAAI, IJCAI) and robotics (ICRA, IROS, RSS, HRI).
 
-Harold lives in Singapore with his wife, an anesthesiologist, and two rambunctious children. In his free time (about ten minutes before bed), he enjoys reading science fiction with a glass of wine.
+Harold lives in Singapore with his wife and two rambunctious children. In his precious free time, he enjoys reading science fiction with a glass of wine.
 
 ## Awards:
 
