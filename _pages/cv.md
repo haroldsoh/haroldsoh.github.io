@@ -50,12 +50,13 @@ Harold lives in Singapore with his wife and two rambunctious children. In his pr
 
 ### Invited Talks
 
-- Trust and Touch for HRI, QUT Centre for Robotics, Feb 2022.
-- Trust, Touch, and Talk for HRI, University of Southern California (USC), Oct 2021.
-- Event-based Learning and Perception, 2021 Telluride Neuromorphic Cognition Engineering Workshop.
-- [Learning and Perception with Event-Based Tactile Sensors](https://www.youtube.com/watch?v=t54RWSRPf1A){:target="_blank"}, ICRA 2021 VITAC Workshop.
-- [Trust in Human Robot Collaboration](https://www.youtube.com/watch?v=dakjjK9ttCQ){:target="_blank"}, RSS 2020 Workshop on Emergent Behaviors in Human-Robot Systems.
-- Human Robot Trust, AI & Robotics Global Conference 2019 / The Robot Of The Year 2019.
+- Invited Speaker, Close Proximity Human-Robot Collaboration Challenges & Opportunities, R:SS Workshop, 2022. 
+- Invited Speaker, Trust and Touch for HRI, QUT Centre for Robotics, Feb 2022.
+- Invited Speaker, Trust, Touch, and Talk for HRI, University of Southern California (USC), Oct 2021.
+- Invited Speaker, Event-based Learning and Perception, 2021 Telluride Neuromorphic Cognition Engineering Workshop.
+- Invited Speaker, [Learning and Perception with Event-Based Tactile Sensors](https://www.youtube.com/watch?v=t54RWSRPf1A){:target="_blank"}, ICRA 2021 VITAC Workshop.
+- Invited Speaker, [Trust in Human Robot Collaboration](https://www.youtube.com/watch?v=dakjjK9ttCQ){:target="_blank"}, RSS 2020 Workshop on Emergent Behaviors in Human-Robot Systems.
+- Invited Speaker, Human Robot Trust, AI & Robotics Global Conference 2019 / The Robot Of The Year 2019.
 
 ### Selected Press and Interviews
 

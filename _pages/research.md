@@ -49,21 +49,6 @@ Most of my work in the past few years has centered on these two topics. Together
 - *Khazanah Global Scholarship*, 2009-2013.
 - *Regents Scholarship*, University of California, 2000-2004. -->
 
-### Invited Talks
-
-- Trust, Touch, and Talk for HRI, University of Southern California (USC), Oct 2021.
-- Event-based Learning and Perception, 2021 Telluride Neuromorphic Cognition Engineering Workshop.
-- [Learning and Perception with Event-Based Tactile Sensors](https://www.youtube.com/watch?v=t54RWSRPf1A){:target="_blank"}, ICRA 2021 VITAC Workshop.
-- [Trust in Human Robot Collaboration](https://www.youtube.com/watch?v=dakjjK9ttCQ){:target="_blank"}, RSS 2020 Workshop on Emergent Behaviors in Human-Robot Systems.
-- Human Robot Trust, AI & Robotics Global Conference 2019 / The Robot Of The Year 2019.
-
-### Selected Press and Interviews
-
-- Neuromorphic Touch Perception, CNA938 Interview, Aug 2020
-- BBC Tech Tent Podcast, July 2020
-- [Why It Matters, (Art)ificial Intelligence](https://www.channelnewsasia.com/news/video-on-demand/why-it-matters-2/art-ificial-intelligence-11045126){:target="_blank"}, Channel News Asia (CNA).
-- [A Smart, Safe Wheelchair for Kids Who Can’t Walk](https://www.technologyreview.com/2012/09/28/183560/a-smart-safe-wheelchair-for-kids-who-cant-walk/), MIT Tech Review, Sept 2012
-
 
 
 
