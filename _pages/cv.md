@@ -21,6 +21,7 @@ Harold lives in Singapore with his wife and two rambunctious children. In his pr
 
 | Year      | Award | Comment |
 |----------- | ----------- | ------ |
+| 2021      | Annual Teaching Excellence Award (ATEA)       | University Level Teaching Award |
 | 2021      | IEEE/RSJ IROS Best Paper Award       | Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects |
 | 2020      | Annual Teaching Excellence Award (ATEA)       | University Level Teaching Award |
 | 2020      | Faculty Teaching Excellence Award (FTEA)       | School of Computing, NUS |
