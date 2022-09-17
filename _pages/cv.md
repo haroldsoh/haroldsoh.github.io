@@ -23,7 +23,7 @@ Harold lives in Singapore with his wife and two rambunctious children. In his pr
 |----------- | ----------- | ------ |
 | 2022      | Best of IEEE Transactions on Affective Computing (T-AFFC) 2021 Award  | [Applying Probabilistic Programming to Affective Computing](https://arxiv.org/abs/1903.06445){:target="_blank"} |
 | 2021      | Annual Teaching Excellence Award (ATEA)       | University Level Teaching Award |
-| 2021      | IEEE/RSJ IROS Best Paper Award       | Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects |
+| 2021      | IEEE/RSJ IROS Best Paper Award       | [Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects](https://clear-nus.github.io/blog/extsense){:target="_blank"} |
 | 2020      | Annual Teaching Excellence Award (ATEA)       | University Level Teaching Award |
 | 2020      | Faculty Teaching Excellence Award (FTEA)       | School of Computing, NUS |
 | 2019      | Faculty Teaching Excellence Award (FTEA)       | School of Computing, NUS |
