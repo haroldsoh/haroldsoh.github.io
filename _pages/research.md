@@ -27,6 +27,7 @@ Most of my work in the past few years has centered on these two topics. Together
 
 | Year      | Award | Comment |
 |----------- | ----------- | ------ |
+| 2022      | Best of IEEE Transactions on Affective Computing (T-AFFC) 2021 Award  | [Applying Probabilistic Programming to Affective Computing](https://arxiv.org/abs/1903.06445){:target="_blank"} |
 | 2021      | IEEE/RSJ IROS Best Paper Award       | Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects |
 | 2018   | RSS Best Paper Award Finalist       | [The Transfer of Human Trust in Robot Capabilities across Tasks](https://clear-nus.github.io/blog/multi-task-trust){:target="_blank"} |
 | 2018   | ACM/IEEE HRI Best Paper Award Finalist       | [Planning with Trust for Human Robot Collaboration](https://arxiv.org/abs/1801.04099){:target="_blank"} |
