@@ -1,4 +1,6 @@
 current:
+  - date: 13 Mar 2023
+    description: Heading to HRI'23! Will be speaking at the <a target="_blank" href="https://www.robot-manipulation.org/hri-2023">Workshop on Advancing HRI Research and Benchmarking Through Open-Source Ecosystems</a> and HRI Pioneers 2023.
   - date: 19 Jan 2023
     description: Our work on <a target="_blank" href="https://arxiv.org/abs/2211.05361">Safety Constrained Policy Transfer</a> will be presented at ICRA'23. 
   - date: 9 Sept 2022
