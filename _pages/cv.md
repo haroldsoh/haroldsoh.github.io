@@ -13,7 +13,7 @@ Harold Soh is an Assistant Professor in the Department of Computer Science at th
 
 Harold's current research focuses on machine learning and decision-making for trustworthy collaborative robots. His work, which spans cognitive modeling (human trust) to physical systems (tactile perception with novel e-skins), has been recognized with a best paper award at IROS'21 and nominations at RSS'18, HRI'18, RecSys'18, and IROS'12.
 
-He has served on the HRI committee as LBR Co-Chair (2019) and on the Technical Advances PC as a member (2020/22) and chair (2021). He is an Associate Editor of the ACM Transactions on Human Robot Interaction and Robotics Automation and Letters (RA-L). He regularly serves as PC member or reviewer for the top publication venues in AI/ML (NeurIPS, ICLR, ICML, AAAI, IJCAI) and robotics (ICRA, IROS, RSS, HRI).
+He has served on the HRI committee as LBR Co-Chair (2019) and on the Technical Advances PC as a member (2020/22) and chair (2021). He is an Associate Editor of the ACM Transactions on Human Robot Interaction, Robotics Automation and Letters (RA-L) and the International Journal on Robotics Research (IJRR). He also serves as a co-chair for the AAAI Symposium Series. He regularly serves as PC member or reviewer for the top publication venues in AI/ML (NeurIPS, ICLR, ICML, AAAI, IJCAI) and robotics (ICRA, IROS, RSS, HRI).
 
 Harold lives in Singapore with his wife and two rambunctious children. In his precious free time, he enjoys reading science fiction with a glass of wine.
 
@@ -52,6 +52,13 @@ Harold lives in Singapore with his wife and two rambunctious children. In his pr
 
 ### Invited Talks
 
+- Invited Speaker, ICRA Workshop on Communicating Robot Learning in Human-Robot Interaction, 2023.
+- Invited Speaker, ICRA Workshop on Assistive Manipulation, 2023
+- Invited Speaker, HRI Workshop on Advancing HRI Research and Benchmarking through Open-Source Ecosystems, 2023.
+- Invited Panelist, HRI Pioneers 2023.
+- Invited Speaker, NeurIPS Workshop on Progress and Challenges in Building Trustworthy Embodied AI, 2022.
+- Invited Speaker, [Towards Trustworthy Robots that Interact with People](https://www.grasp.upenn.edu/events/fall-2022-grasp-sfi-harold-soh-national-university-of-singapore/), GRASP Fall Seminar, University of Pennsylvania, 2022. 
+- Invited Panelist, Principles and understanding of RL algorithms and models, IROS RL-CONFORM workshop, 2022  
 - Invited Speaker, Workshop on Human Theory of Machines and Machine Theory of Mind for Human Agent Teams, IROS 2022.
 - Invited Speaker, Workshop on Close Proximity Human-Robot Collaboration Challenges & Opportunities, R:SS 2022. 
 - Invited Speaker, Center for Robotics and Neural Systems (CRNS), University of Plymouth, 2022
