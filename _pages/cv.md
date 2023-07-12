@@ -13,7 +13,7 @@ Harold Soh is an Assistant Professor in the Department of Computer Science at th
 
 Harold's current research focuses on machine learning and decision-making for trustworthy collaborative robots. His work, which spans cognitive modeling (human trust) to physical systems (tactile perception with novel e-skins), has been recognized with a best paper award at IROS'21 and nominations at RSS'18, HRI'18, RecSys'18, and IROS'12.
 
-He has served on the HRI committee as LBR Co-Chair (2019) and on the Technical Advances PC as a member (2020/22) and chair (2021). He is an Associate Editor of the ACM Transactions on Human Robot Interaction, Robotics Automation and Letters (RA-L) and the International Journal on Robotics Research (IJRR). He also serves as a co-chair for the AAAI Symposium Series. He regularly serves as PC member or reviewer for the top publication venues in AI/ML (NeurIPS, ICLR, ICML, AAAI, IJCAI) and robotics (ICRA, IROS, RSS, HRI).
+He has served on the HRI committee as co-Program Chair (2024), LBR Co-Chair (2019) and on the Technical Advances PC as a member (2020/22) and chair (2021/23). He is an Associate Editor of the ACM Transactions on Human Robot Interaction, Robotics Automation and Letters (RA-L) and the International Journal on Robotics Research (IJRR). He also serves as a co-chair for the AAAI Symposium Series. He regularly serves as PC member or reviewer for the top publication venues in AI/ML (NeurIPS, ICLR, ICML, AAAI, IJCAI) and robotics (ICRA, IROS, RSS, HRI).
 
 Harold lives in Singapore with his wife and two rambunctious children. In his precious free time, he enjoys reading science fiction with a glass of wine.
 
@@ -21,6 +21,7 @@ Harold lives in Singapore with his wife and two rambunctious children. In his pr
 
 | Year      | Award | Comment |
 |----------- | ----------- | ------ |
+| 2023 		| Early Career Spotlight | Robotics: Science and Systems (R:SS) 2023 |
 | 2022      | Best of IEEE Transactions on Affective Computing (T-AFFC) 2021 Award  | [Applying Probabilistic Programming to Affective Computing](https://arxiv.org/abs/1903.06445){:target="_blank"} |
 | 2021      | Annual Teaching Excellence Award (ATEA)       | University Level Teaching Award |
 | 2021      | IEEE/RSJ IROS Best Paper Award       | [Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects](https://clear-nus.github.io/blog/extsense){:target="_blank"} |
