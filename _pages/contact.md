@@ -10,11 +10,11 @@ image:
 The best way to reach me is via email: [harold@comp.nus.edu.sg](mailto:harold@comp.nus.edu.sg).
 
 ## Office
-You can often find me at COM2-03-03 (COM2 Building, 3rd Floor, Room 03-03). 
+You can often find me at COM3-02-58 (COM3 Building, 2nd Floor, Room 02-58) or my SSI Office on the 5th floor at i4.0. 
 
 My snail mail address is:
 
-*13 Computing Drive, COM2-03-03, <br>
+*13 Computing Drive, COM3-02-58, <br>
 Singapore 117417, <br>
 Singapore.*
 
