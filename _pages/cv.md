@@ -9,13 +9,11 @@ Links: [Long CV]({% link files/haroldsoh_cv.pdf %})
 
 ## Brief Biography
 
-Harold Soh is an Assistant Professor in the Department of Computer Science at the National University of Singapore (NUS), where he directs the Collaborative Learning and Adaptive Robots (CLeAR) group. Harold completed his Ph.D. at Imperial College London on online learning for assistive robots.
+Harold Soh is an Assistant Professor of Computer Science at the National University of Singapore, where he leads the Collaborative Learning and Adaptive Robots (CLeAR) group. He completed his Ph.D. at Imperial College London, focusing on online learning for assistive robots. 
 
-Harold's current research focuses on machine learning and decision-making for trustworthy collaborative robots. His work, which spans cognitive modeling (human trust) to physical systems (tactile perception with novel e-skins), has been recognized with a best paper award at IROS'21 and nominations at RSS'18, HRI'18, RecSys'18, and IROS'12.
+Harold's research primarily involves machine learning, particularly generative AI, and decision-making in trustworthy collaborative robots. His contributions have been recognized with a R:SS Early Career Spotlight in 2023, best paper awards at IROS'21 and T-AFFC'21, and several nominations (R:SS'18, HRI'18, RecSys'18, IROS'12). Harold has played significant roles in the HRI community, most recently as co-Program Chair of ACM/IEEE HRI'24. He is an Associate Editor for the ACM Transactions on Human Robot Interaction, Robotics Automation and Letters (RA-L), and the International Journal on Robotics Research (IJRR). He serves as Associate Director of the NUS AI Lab (NUSAIL) and is a Principal Investigator at the Smart Systems Institute. He is also a co-founder of TacnIQ, a startup developing intelligent e-skins.
 
-He has served on the HRI committee as co-Program Chair (2024), LBR Co-Chair (2019) and on the Technical Advances PC as a member (2020/22) and chair (2021/23). He is an Associate Editor of the ACM Transactions on Human Robot Interaction, Robotics Automation and Letters (RA-L) and the International Journal on Robotics Research (IJRR). He also serves as a co-chair for the AAAI Symposium Series. He regularly serves as PC member or reviewer for the top publication venues in AI/ML (NeurIPS, ICLR, ICML, AAAI, IJCAI) and robotics (ICRA, IROS, RSS, HRI).
-
-Harold lives in Singapore with his wife and two rambunctious children. In his precious free time, he enjoys reading science fiction with a glass of wine.
+Harold lives in Singapore with his wife and two lovely children. In his precious free time, he enjoys reading science fiction with a glass of wine.
 
 ## Awards:
 
@@ -51,8 +49,9 @@ Harold lives in Singapore with his wife and two rambunctious children. In his pr
 - *Khazanah Global Scholarship*, 2009-2013.
 - *Regents Scholarship*, University of California, 2000-2004. -->
 
-### Invited Talks
+### Selected Invited Talks
 
+- Keynote, IEEE International Conference on Robotics and Automation (ICRA), 2024.
 - Invited Speaker, ICRA Workshop on Communicating Robot Learning in Human-Robot Interaction, 2023.
 - Invited Speaker, ICRA Workshop on Assistive Manipulation, 2023
 - Invited Speaker, HRI Workshop on Advancing HRI Research and Benchmarking through Open-Source Ecosystems, 2023.
