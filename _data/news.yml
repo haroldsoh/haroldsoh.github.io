@@ -1,4 +1,6 @@
 current:
+  - date: 27 Mar 2024
+    description: Excited to giving a Keynote at ICRA'24! I'll be speaking about our groups work on generative models for robotics. 
   - date: 22 Sep 2023
     description: Both our submitted papers were accepted to Neurips 2023. Check out our <a target="_blank" href="https://clear-nus.github.io/blog/sa">spotlight paper on making deep generative models forget</a>.    
   - date: 30 Aug 2023
