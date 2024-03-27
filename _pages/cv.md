@@ -52,6 +52,7 @@ Harold lives in Singapore with his wife and two lovely children. In his precious
 ### Selected Invited Talks
 
 - Keynote, IEEE International Conference on Robotics and Automation (ICRA), 2024.
+- Invited Speaker, Towards Collaborative Partners: Design, Shared Control, and robot Learning for Physical HRI, ICRA 2024 Workshop
 - Invited Speaker, ICRA Workshop on Communicating Robot Learning in Human-Robot Interaction, 2023.
 - Invited Speaker, ICRA Workshop on Assistive Manipulation, 2023
 - Invited Speaker, HRI Workshop on Advancing HRI Research and Benchmarking through Open-Source Ecosystems, 2023.
