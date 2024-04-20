@@ -17,14 +17,15 @@ Regardless of their eventual career choice, I believe these skills will remain r
 
 ### Teaching Awards
 
+- *Annual Teaching Excellence Award*, NUS, 2020/21
 - *Annual Teaching Excellence Award*, NUS, 2019/20
-- *Faculty Teaching Excellence Award*, School of Computing, 2019/20
+- *Faculty Teaching Excellence Award* and Honor Roll, School of Computing, 2019/20
 - *Faculty Teaching Excellence Award*, School of Computing, 2018/19
 - *Faculty Teaching Excellence Award*, School of Computing, 2017/18
 
 ### Coursework
 
-Over the past three years, I have developed and taught four courses at the core undergraduate level (CS2040/S - Data Structures and Algorithms) and graduate level (CS5340 - Uncertainty Modeling in AI, CS6281 - Human-Centered AI) and an advanced topics course on Human-Robot Interaction (CS6244). 
+Over the past three years, I have developed and taught four courses at the core undergraduate level (CS2040/S - Data Structures and Algorithms, CS3264 - Foundations of Machine Learning) and graduate level (CS5340 - Uncertainty Modeling in AI, CS6281 - Human-Centered AI) and an advanced topics course on Human-Robot Interaction (CS6244). 
 
 My principal methodology is one of engagement and active learning, i.e., challenging students in an environment where they feel comfortable questioning, discussing, and developing ideas. To maintain student engagement, I try to provide sufficient motivation--- *why students should pay attention* --- and opportunities for in-class interaction. 
 
