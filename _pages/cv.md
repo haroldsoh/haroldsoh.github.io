@@ -19,6 +19,7 @@ Harold lives in Singapore with his wife and two lovely children. In his precious
 
 | Year      | Award | Comment |
 |----------- | ----------- | ------ |
+| 2024 		| Annual Teaching Excellence Award (ATEA)       | University Level Teaching Award |
 | 2023 		| Early Career Spotlight | Robotics: Science and Systems (R:SS) 2023 |
 | 2022      | Best of IEEE Transactions on Affective Computing (T-AFFC) 2021 Award  | [Applying Probabilistic Programming to Affective Computing](https://arxiv.org/abs/1903.06445){:target="_blank"} |
 | 2021      | Annual Teaching Excellence Award (ATEA)       | University Level Teaching Award |
@@ -51,8 +52,9 @@ Harold lives in Singapore with his wife and two lovely children. In his precious
 
 ### Selected Invited Talks
 
-- Keynote, IEEE International Conference on Robotics and Automation (ICRA), 2024.
-- Invited Speaker, Towards Collaborative Partners: Design, Shared Control, and robot Learning for Physical HRI, ICRA 2024 Workshop
+- **Keynote**, IEEE International Conference on Robotics and Automation (ICRA), 2024.
+- Invited Speaker, Future of Robotics Debates, ICRA 2024.
+- Invited Speaker, Towards Collaborative Partners: Design, Shared Control, and Robot Learning for Physical HRI, ICRA 2024 Workshop
 - Invited Speaker, ICRA Workshop on Communicating Robot Learning in Human-Robot Interaction, 2023.
 - Invited Speaker, ICRA Workshop on Assistive Manipulation, 2023
 - Invited Speaker, HRI Workshop on Advancing HRI Research and Benchmarking through Open-Source Ecosystems, 2023.

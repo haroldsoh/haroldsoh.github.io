@@ -17,6 +17,7 @@ Regardless of their eventual career choice, I believe these skills will remain r
 
 ### Teaching Awards
 
+- *Annual Teaching Excellence Award* and *Honor Roll*, NUS, 2023/24
 - *Annual Teaching Excellence Award*, NUS, 2020/21
 - *Annual Teaching Excellence Award*, NUS, 2019/20
 - *Faculty Teaching Excellence Award* and Honor Roll, School of Computing, 2019/20
