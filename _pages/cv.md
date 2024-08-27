@@ -52,6 +52,8 @@ Harold lives in Singapore with his wife and two lovely children. In his precious
 
 ### Selected Invited Talks
 
+- Invited Speaker, Microsoft Research Asia ACE Seminar.
+- Invited Speaker, R:SS Workshop on Safety and Normative Behaviors in Human-Robot Interaction.
 - **Keynote**, IEEE International Conference on Robotics and Automation (ICRA), 2024.
 - Invited Speaker, Future of Robotics Debates, ICRA 2024.
 - Invited Speaker, Towards Collaborative Partners: Design, Shared Control, and Robot Learning for Physical HRI, ICRA 2024 Workshop
