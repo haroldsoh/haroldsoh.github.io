@@ -1,4 +1,8 @@
 current:
+  - date: 26 Sep 2024
+    description: Our work on leveraging  <a target="_blank" href="https://arxiv.org/abs/2405.11881">a *single* diffusion model for out-of-distribution (OOD) detection</a> was accepted to NeurIPS 2024. This work is a step towards trustworhty ML models that know what data they aren't trained with.
+  - date: 20 Sept 2024
+    description: Check out our lab's first EMNLP paper on <a target="_blank" href="https://arxiv.org/abs/2404.03868">using LLMs for knowledge graph construction</a>. We are looking to make LLMs better use external trustworthy knowledge sources and this is a step towards that direction.  
   - date: 27 Aug 2024
     description: Gave a talk at the Microsoft Research Asia ACE Series! Thank you to the Microsoft Accelerator Team! 
   - date: 14 May 2024
