@@ -34,7 +34,7 @@ hero:
   hero__title: Hello, I'm Harold. 
   hero__description: 'I’m an Assistant Professor of Computer Science at the School of Computing, National University of Singapore (NUS). 
   I direct the <a href="https://clear-nus.github.io">Collaborative, Learning, and Adaptive Robots (CLeAR)</a> Lab. 
-  My research interests are in broadly in human-AI/robot interaction, machine learning, and robotics. 
+  My research interests are in human-AI/robot interaction, machine learning, and robotics. 
   I’m particularly interested in developing trustworthy collaborative robots. Read more about my <a href="research">research</a>, <a href="teaching">teaching</a> or <a href="contact">get in touch</a>.'
 
 
