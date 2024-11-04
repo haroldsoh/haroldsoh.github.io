@@ -9,9 +9,7 @@ Links: [Long CV]({% link files/haroldsoh_cv.pdf %})
 
 ## Brief Biography
 
-Harold Soh is an Assistant Professor of Computer Science at the National University of Singapore, where he leads the Collaborative Learning and Adaptive Robots (CLeAR) group. He completed his Ph.D. at Imperial College London, focusing on online learning for assistive robots. 
-
-Harold's research primarily involves machine learning, particularly generative AI, and decision-making in trustworthy collaborative robots. His contributions have been recognized with a R:SS Early Career Spotlight in 2023, best paper awards at IROS'21 and T-AFFC'21, and several nominations (R:SS'18, HRI'18, RecSys'18, IROS'12). Harold has played significant roles in the HRI community, most recently as co-Program Chair of ACM/IEEE HRI'24. He is an Associate Editor for the ACM Transactions on Human Robot Interaction, Robotics Automation and Letters (RA-L), and the International Journal on Robotics Research (IJRR). He is a Principal Investigator at the Smart Systems Institute and a co-founder of TacnIQ, a startup developing touch-enabled intelligence.
+Harold Soh is an Assistant Professor of Computer Science at the National University of Singapore, where he leads the Collaborative Learning and Adaptive Robots (CLeAR) lab. He completed his Ph.D. at Imperial College London, focusing on online learning for assistive robots. Harold's research interests are in machine learning, particularly generative models, and decision-making for trustworthy collaborative robots. His contributions have been recognized with a R:SS Early Career Spotlight in 2023, best paper awards at IROS'21 and T-AFFC'21, and several nominations (R:SS'18, HRI'18, RecSys'18, IROS'12). Harold has undertaken significant roles in the HRI community, most recently as co-Program Chair of ACM/IEEE HRI'24. He is an Associate Editor for the ACM Transactions on Human Robot Interaction, Robotics Automation and Letters (RA-L), and the International Journal on Robotics Research (IJRR). He is a Principal Investigator at the Smart Systems Institute and a co-founder of TacnIQ, a startup developing touch-enabled intelligence.
 
 Harold lives in Singapore with his wife and two lovely children. In his precious free time, he enjoys reading science fiction with a glass of wine.
 
@@ -52,7 +50,7 @@ Harold lives in Singapore with his wife and two lovely children. In his precious
 
 ### Selected Invited Talks
 
-- Invited Speaker, Microsoft Research Asia ACE Seminar.
+- Invited Speaker, Microsoft Research Asia ACE Seminar, 2024.
 - Invited Speaker, R:SS Workshop on Safety and Normative Behaviors in Human-Robot Interaction.
 - **Keynote**, IEEE International Conference on Robotics and Automation (ICRA), 2024.
 - Invited Speaker, Future of Robotics Debates, ICRA 2024.
