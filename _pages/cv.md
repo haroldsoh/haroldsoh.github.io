@@ -5,8 +5,8 @@ permalink: /cv/
 image: 
 ---
 
-Links: [Long CV]({% link files/haroldsoh_cv.pdf %})
-Picture: [Link](images/harold-round.png)
+Links: [Long CV]({% link files/haroldsoh_cv.pdf %}), 
+[Picture]({%link images/harold-round.png %})
 
 ## Brief Biography
 
