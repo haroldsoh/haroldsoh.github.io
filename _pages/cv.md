@@ -6,6 +6,7 @@ image:
 ---
 
 Links: [Long CV]({% link files/haroldsoh_cv.pdf %})
+Picture: [Link](images/harold-round.png)
 
 ## Brief Biography
 
