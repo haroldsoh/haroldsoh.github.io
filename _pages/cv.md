@@ -10,7 +10,7 @@ Links: [Long CV]({% link files/haroldsoh_cv.pdf %}),
 
 ## Brief Biography
 
-Harold Soh is an Assistant Professor of Computer Science at the National University of Singapore, where he leads the Collaborative Learning and Adaptive Robots (CLeAR) lab. He completed his Ph.D. at Imperial College London, focusing on online learning for assistive robots. Harold's research interests are in artificial intelligence --- particularly generative modeling and decision-making --- for trustworthy collaborative robots. His contributions have been recognized with a R:SS Early Career Spotlight in 2023, best paper awards at IROS'21 and T-AFFC'21, and several nominations (R:SS'18, HRI'18, RecSys'18, IROS'12). Harold has undertaken significant roles in the HRI community, most recently as co-Program Chair of ACM/IEEE HRI'24. He currently serves as Senior Associate Editor for the ACM Transactions on Human Robot Interaction, and Associate Editor at the International Journal on Robotics Research (IJRR). He is a Principal Investigator at the Smart Systems Institute and a co-founder of TacnIQ, a startup developing touch-enabled intelligence. 
+Harold Soh is an Associate Professor of Computer Science at the National University of Singapore, where he leads the Collaborative Learning and Adaptive Robots (CLeAR) lab. He completed his Ph.D. at Imperial College London, focusing on online learning for assistive robots. Harold's research interests are in artificial intelligence --- particularly generative modeling and decision-making --- for trustworthy collaborative robots. His contributions have been recognized with a R:SS Early Career Spotlight in 2023, best paper awards at IROS'21 and T-AFFC'21, and several nominations (R:SS'18, HRI'18, RecSys'18, IROS'12). Harold has undertaken significant roles in the HRI community, most recently as co-Program Chair of ACM/IEEE HRI'24. He currently serves as Senior Associate Editor for the ACM Transactions on Human Robot Interaction, and Associate Editor at the International Journal on Robotics Research (IJRR). He is a Principal Investigator at the Smart Systems Institute and a co-founder of TacnIQ, a startup developing touch-enabled intelligence. 
 
 Harold lives in Singapore with his wife and two lovely children. In his precious free time, he enjoys reading science fiction with a glass of wine.
 
@@ -51,11 +51,15 @@ Harold lives in Singapore with his wife and two lovely children. In his precious
 
 ### Selected Invited Talks
 
-- **Keynote**, IEEE International Conference on Robotics and Automation (ICRA) - HRI Session, 2025.
-- **Keynote**, IEEE International Conference on Robotics and Automation (ICRA) - HRI Session, 2024.
+- Invited Panelist, R:SS Panel on Past, Present, and Future of Robotics Research, 2025.
+- Invited Speaker, R:SS Workshop on Navigating Contact Dynamics in Robotics, 2025.
+- Invited Speaker, R:SS 2025 Workshop on Human-in-the-Loop Robot Learning: Teaching, Correcting, and Adapting, 2025.
+- [**Keynote**](https://youtu.be/NCkwz0dBmO4?si=tZxiLkLBxCF-nqwT), IEEE International Conference on Robotics and Automation (ICRA) - HRI Session, 2025.
+- Invited Speaker, Rethinking Social, Task, and Motion Planning with Foundation Models (ICRA Workshop), 2025
 - [**Keynote**](https://www.youtube.com/watch?v=7es5dAIw-s0){:target="_blank"}, IEEE International Conference on Robotics and Automation (ICRA), 2024.
+- Invited Speaker, Towards Collaborative Partners: Design, Shared Control, and Robot Learning for Physical HRI (ICRA Workshop), 2024.
 - Invited Speaker, Microsoft Research Asia ACE Seminar, 2024.
-- Invited Speaker, R:SS Workshop on Safety and Normative Behaviors in Human-Robot Interaction.
+- Invited Speaker, R:SS Workshop on Safety and Normative Behaviors in Human-Robot Interaction, 2024
 - Invited Speaker, Future of Robotics Debates, ICRA 2024.
 - Invited Speaker, Towards Collaborative Partners: Design, Shared Control, and Robot Learning for Physical HRI, ICRA 2024 Workshop
 - Invited Speaker, ICRA Workshop on Communicating Robot Learning in Human-Robot Interaction, 2023.
