@@ -18,7 +18,8 @@ Harold lives in Singapore with his wife and two lovely children. In his precious
 
 | Year      | Award | Comment |
 |----------- | ----------- | ------ |
-| 2024 		| Annual Teaching Excellence Award (ATEA) and Honor Roll  | University Level Teaching Award |
+| 2025     | University Teaching Awards Honour Roll (2025 – 2029) | 
+| 2024 		| Annual Teaching Excellence Award (ATEA) | University Level Teaching Award |
 | 2023 		| Early Career Spotlight | Robotics: Science and Systems (R:SS) 2023 |
 | 2022      | Best of IEEE Transactions on Affective Computing (T-AFFC) 2021 Award  | [Applying Probabilistic Programming to Affective Computing](https://arxiv.org/abs/1903.06445){:target="_blank"} |
 | 2021      | Annual Teaching Excellence Award (ATEA)       | University Level Teaching Award |
