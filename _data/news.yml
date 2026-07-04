@@ -1,4 +1,40 @@
 current:
+  - date: Jul 2026
+    description: >-
+      Awarded an <a target="_blank" href="https://www.nrf.gov.sg/">NRF Investigatorship</a> for <span class="award">Learning Persistent Agent-Centric Representations for Embodied AI</span>.
+  - date: 25 Jun 2026
+    description: >-
+      Gave an invited keynote at the <a target="_blank" href="https://summer-school.rpl.eecs.kth.se/programme/">RPL Summer School 2026</a> in Sweden.
+  - date: 11 Jun 2026
+    description: >-
+      Gave an invited keynote at <a target="_blank" href="https://jnrh2026.sciencesconf.org/">JNRH 2026, the Journées Nationales de Robotique Humanoïde</a>, in Montpellier, France.
+  - date: 4 Jun 2026
+    description: >-
+      CLeAR won Overall Champion at <a target="_blank" href="https://www.kdc.icra.lejurobot.com/home">REAL-I 2026, the 1st Real-World Embodied AI Learning Challenge</a> at ICRA 2026, plus 1st place in On-Site Tasks 1 and 3 in the <a target="_blank" href="https://mp.weixin.qq.com/s/FO13z1E_AuaNSQUAoMKoYg">official results</a>.
+  - date: 22 May 2026
+    description: >-
+      Our paper <a target="_blank" href="https://arxiv.org/abs/2605.20758">Conflict-Aware Additive Guidance for Flow Models under Compositional Rewards</a> was accepted to ICML 2026; see the <a target="_blank" href="https://clear-nus.github.io/blog/icml26">CLeAR summary</a>.
+  - date: 29 Apr 2026
+    description: >-
+      CLeAR had <a target="_blank" href="https://clear-nus.github.io/blog/rss26">two papers accepted to R:SS 2026</a>: <a target="_blank" href="https://clear-nus.github.io/blog/guided-ssip">Guided Streaming Stochastic Interpolant Policy</a> and <a target="_blank" href="https://arxiv.org/abs/2603.03836">SkillVLA</a>.
+  - date: 15 Apr 2026
+    description: Congratulations to <a target="_blank" href="https://clear-nus.github.io/blog/haoce-graduation">Ce Hao</a>, who has graduated and is now Dr. Hao!
+  - date: 26 Jan 2026
+    description: >-
+      All three of our submissions were accepted to <a target="_blank" href="https://clear-nus.github.io/blog/iclr26">ICLR 2026</a>: <a target="_blank" href="https://arxiv.org/abs/2505.15008">Know When to Abstain</a>, <a target="_blank" href="https://arxiv.org/abs/2601.21251">Abstracting Robot Manipulation Skills via Mixture-of-Experts Diffusion Policies</a>, and <a target="_blank" href="https://openreview.net/forum?id=K4ngUOra9m">Masked Skill Token Training for Hierarchical Off-Dynamics Transfer</a>.
+  - date: 4 Nov 2025
+    description: Congratulations to <a target="_blank" href="https://clear-nus.github.io/blog/alvin-graduate">Alvin Heng</a>, who has graduated and is now Dr. Heng!
+  - date: 16 Aug 2025
+    description: >-
+      CLeAR's <a target="_blank" href="https://clear-nus.github.io/blog/genie">GeNIE system won first place in the Earth Rover Challenge at ICRA 2025</a>.
+  - date: 15 Jul 2025
+    description: Congratulations to <a target="_blank" href="https://clear-nus.github.io/blog/socthesisaward">Tasbolat Taunyazov</a> for winning the NUS School of Computing Best PhD Thesis Award in CS!
+  - date: 1 Jun 2025
+    description: Gave a <a target="_blank" href="https://clear-nus.github.io/blog/icrakeynote25">keynote at ICRA'25</a> on foundation models for agents in embodied AI systems.
+  - date: 24 Mar 2025
+    description: Congratulations to <a target="_blank" href="https://clear-nus.github.io/blog/kaiqi-graduates">Kaiqi Chen</a>, who successfully defended his thesis and is now Dr. Chen!
+  - date: Jan 2025
+    description: Promoted to <a target="_blank" href="/cv">Associate Professor with tenure</a>, effective January 2025.
   - date: 26 Sep 2024
     description: Our work on leveraging  <a target="_blank" href="https://arxiv.org/abs/2405.11881">a *single* diffusion model for out-of-distribution (OOD) detection</a> was accepted to NeurIPS 2024. This work is a step towards trustworthy ML models that know what data they aren't trained with.
   - date: 20 Sept 2024

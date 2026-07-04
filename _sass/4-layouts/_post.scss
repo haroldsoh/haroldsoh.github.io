@@ -7,11 +7,16 @@
 
   a {
     font-weight: 500;
-    border-bottom: 1px solid var(--border-color);
+    color: var(--content-link-color);
+    text-decoration: none;
+    border-bottom: 0;
 
     &:hover {
-      color: var(--link-color);
-      border-bottom-color: var(--link-color-hover);
+      color: var(--content-link-color-hover);
+      text-decoration: underline;
+      text-decoration-color: var(--content-link-color-hover);
+      text-decoration-thickness: 1.5px;
+      text-underline-offset: 0.16em;
     }
   }
 

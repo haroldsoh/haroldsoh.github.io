@@ -18,6 +18,7 @@ Harold lives in Singapore with his wife and two lovely children. In his precious
 
 | Year      | Award | Comment |
 |----------- | ----------- | ------ |
+| 2026     | NRF Investigatorship | National Research Foundation, Singapore; Learning Persistent Agent-Centric Representations for Embodied AI |
 | 2025     | University Teaching Awards Honour Roll (2025 – 2029) | 
 | 2024 		| Annual Teaching Excellence Award (ATEA) | University Level Teaching Award |
 | 2023 		| Early Career Spotlight | Robotics: Science and Systems (R:SS) 2023 |
