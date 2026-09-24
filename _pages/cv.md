@@ -18,6 +18,8 @@ Harold completed his Ph.D. at Imperial College London, where he studied online l
 | Year      | Award | Comment |
 |----------- | ----------- | ------ |
 | 2026     | NRF Investigatorship | National Research Foundation, Singapore; Learning Persistent Agent-Centric Representations for Embodied AI |
+| 2026     | [Overall Champion, REAL-I Embodied AI Challenge, ICRA](https://clear-nus.github.io/blog/real-i-champion) | Advisor to the winning CLeAR team led by [Jiaming Wang](https://clear-nus.github.io/jiaming) |
+| 2025     | [First Place, Earth Rover Challenge, ICRA](https://clear-nus.github.io/blog/genie) | Advisor to the winning CLeAR team led by [Jiaming Wang](https://clear-nus.github.io/jiaming) |
 | 2025     | University Teaching Awards Honour Roll (2025 – 2029) | 
 | 2024 		| Annual Teaching Excellence Award (ATEA) | University Level Teaching Award |
 | 2023 		| Early Career Spotlight | Robotics: Science and Systems (R:SS) 2023 |
