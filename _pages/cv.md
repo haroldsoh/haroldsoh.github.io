@@ -5,16 +5,15 @@ permalink: /cv/
 image: 
 ---
 
-Links: [Long CV]({% link files/haroldsoh_cv.pdf %}), 
-[Picture]({%link images/harold-round.png %})
+[Full CV (PDF)]({% link files/haroldsoh_cv.pdf %}) · [Portrait]({% link images/harold-round.png %}) · [Research](/research/) · [Google Scholar](https://scholar.google.com/citations?user=lkgd1BsAAAAJ&hl=en)
 
 ## Brief Biography
 
-Harold Soh is an Associate Professor of Computer Science at the National University of Singapore, where he leads the Collaborative Learning and Adaptive Robots (CLeAR) lab. He completed his Ph.D. at Imperial College London, focusing on online learning for assistive robots. Harold's research interests are in artificial intelligence --- particularly generative modeling and decision-making --- for trustworthy collaborative robots. His contributions have been recognized with a R:SS Early Career Spotlight in 2023, best paper awards at IROS'21 and T-AFFC'21, and several nominations (R:SS'18, HRI'18, RecSys'18, IROS'12). Harold has undertaken significant roles in the HRI community, most recently as co-Program Chair of ACM/IEEE HRI'24. He currently serves as Senior Associate Editor for the ACM Transactions on Human Robot Interaction, and Associate Editor at the International Journal on Robotics Research (IJRR). He is a Principal Investigator at the Smart Systems Institute and a co-founder of TacnIQ, a startup developing touch-enabled intelligence. 
+Harold Soh is an Associate Professor of Computer Science at the National University of Singapore, where he leads the [Collaborative Learning and Adaptive Robots (CLeAR) lab](https://clear-nus.github.io/). His research focuses on trustworthy embodied AI: developing reliable, fluent, and safe robots that people can depend on. His work connects understanding human trust with building dependable robotic systems, spanning mathematical foundations, learning and decision-making, tactile perception, and real-world evaluation.
 
-Harold lives in Singapore with his wife and two lovely children. In his precious free time, he enjoys reading science fiction with a glass of wine.
+Harold completed his Ph.D. at Imperial College London, where he studied online learning for assistive robots. Before joining NUS, he held postdoctoral appointments at the Singapore-MIT Alliance for Research and Technology and the University of Toronto. He is Director of the Computing Horizons Office at NUS Computing, a Principal Investigator at the Smart Systems Institute, and a co-founder of TacnIQ, a startup developing touch-enabled intelligence.
 
-## Awards:
+## Honours and Awards
 
 | Year      | Award | Comment |
 |----------- | ----------- | ------ |
@@ -23,9 +22,10 @@ Harold lives in Singapore with his wife and two lovely children. In his precious
 | 2024 		| Annual Teaching Excellence Award (ATEA) | University Level Teaching Award |
 | 2023 		| Early Career Spotlight | Robotics: Science and Systems (R:SS) 2023 |
 | 2022      | Best of IEEE Transactions on Affective Computing (T-AFFC) 2021 Award  | [Applying Probabilistic Programming to Affective Computing](https://arxiv.org/abs/1903.06445){:target="_blank"} |
+| 2022      | Annual Teaching Excellence Award (ATEA)       | University Level Teaching Award |
+| 2021      | Faculty Teaching Excellence Award (FTEA)       | School of Computing, NUS |
 | 2021      | Annual Teaching Excellence Award (ATEA)       | University Level Teaching Award |
 | 2021      | IEEE/RSJ IROS Best Paper Award       | [Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects](https://clear-nus.github.io/blog/extsense){:target="_blank"} |
-| 2020      | Annual Teaching Excellence Award (ATEA)       | University Level Teaching Award |
 | 2020      | Faculty Teaching Excellence Award (FTEA)       | School of Computing, NUS |
 | 2019      | Faculty Teaching Excellence Award (FTEA)       | School of Computing, NUS |
 | 2018   | RSS Best Paper Award Finalist       | [The Transfer of Human Trust in Robot Capabilities across Tasks](https://clear-nus.github.io/blog/multi-task-trust){:target="_blank"} |
@@ -39,19 +39,20 @@ Harold lives in Singapore with his wife and two lovely children. In his precious
 | 2009-2013 | Khazanah Global Scholarship | Khazanah Foundation Malaysia |
 | 2000-2004 | Regents Scholarship | University of California, Davis |
 
+## Professional Service
 
-<!-- - *Best Paper Award*, Extended Tactile Perception: Vibration Sensing through Tools and Grasped Objects, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021. 
-- *Best Paper Award Finalist*, [The Transfer of Human Trust in Robot Capabilities across Tasks](https://clear-nus.github.io/blog/multi-task-trust){:target="_blank"}, Robotics Science and Systems (RSS), 2018. 
-- *Best Paper Award Finalist*, [Planning with Trust for Human Robot Collaboration](https://arxiv.org/abs/1801.04099){:target="_blank"}, ACM/IEEE Human Robot Interaction (HRI), 2018.
-- *Best Long Paper Award Runner-up*, [Generation Meets Recommendation: Proposing Novel Items for Groups of Users](https://arxiv.org/abs/1808.01199){:target="_blank"}, ACM Recommender Systems (RecSys), 2018.
-- *SMART Postdoctoral Scholar Fellowship Award*, Singapore-MIT Alliance, 2014
-- *Best Cognitive Robotics Paper Finalist*, [Online Spatio-Temporal Gaussian Process Experts with Application to Tactile Classification](https://spiral.imperial.ac.uk/bitstream/10044/1/12658/4/iros2012.pdf){:target="_blank"}, IEEE/RSJ Intelligent Robots and Systems (IROS), 2012. 
-- *Design London Fellow*, 2012.
-- *James Dyson National Award Finalist (UK)*, 2012.
-- *Khazanah Global Scholarship*, 2009-2013.
-- *Regents Scholarship*, University of California, 2000-2004. -->
+- **Senior Associate Editor**, ACM Transactions on Human-Robot Interaction, 2025–present.
+- **Associate Editor**, The International Journal of Robotics Research, 2023–present.
+- **Associate Editor**, ACM Transactions on Human-Robot Interaction, 2021–2024.
+- **Associate Editor**, IEEE Robotics and Automation Letters, 2021–2024.
+- **Program Co-Chair**, ACM/IEEE International Conference on Human-Robot Interaction (HRI), 2024.
+- **Technical Advances Theme Chair**, HRI, 2021 and 2023.
+- **Late-Breaking Reports Chair**, HRI, 2019.
 
-### Selected Invited Talks
+## Selected Invited Talks
+
+- Invited keynote, [RPL Summer School](https://summer-school.rpl.eecs.kth.se/programme/), Sweden, June 2026.
+- Invited keynote, [JNRH](https://jnrh2026.sciencesconf.org/), Montpellier, France, June 2026.
 
 - Invited Panelist, R:SS Panel on Past, Present, and Future of Robotics Research, 2025.
 - Invited Speaker, R:SS Workshop on Navigating Contact Dynamics in Robotics, 2025.
@@ -63,7 +64,6 @@ Harold lives in Singapore with his wife and two lovely children. In his precious
 - Invited Speaker, Microsoft Research Asia ACE Seminar, 2024.
 - Invited Speaker, R:SS Workshop on Safety and Normative Behaviors in Human-Robot Interaction, 2024
 - Invited Speaker, Future of Robotics Debates, ICRA 2024.
-- Invited Speaker, Towards Collaborative Partners: Design, Shared Control, and Robot Learning for Physical HRI, ICRA 2024 Workshop
 - Invited Speaker, ICRA Workshop on Communicating Robot Learning in Human-Robot Interaction, 2023.
 - Invited Speaker, ICRA Workshop on Assistive Manipulation, 2023
 - Invited Speaker, HRI Workshop on Advancing HRI Research and Benchmarking through Open-Source Ecosystems, 2023.
@@ -81,9 +81,11 @@ Harold lives in Singapore with his wife and two lovely children. In his precious
 - Invited Speaker, [Trust in Human Robot Collaboration](https://www.youtube.com/watch?v=dakjjK9ttCQ){:target="_blank"}, RSS 2020 Workshop on Emergent Behaviors in Human-Robot Systems.
 - Invited Speaker, Human Robot Trust, AI & Robotics Global Conference 2019 / The Robot Of The Year 2019.
 
-### Selected Press and Interviews
+## Selected Press and Interviews
 
 - Neuromorphic Touch Perception, CNA938 Interview, Aug 2020
 - BBC Tech Tent Podcast, July 2020
 - [Why It Matters, (Art)ificial Intelligence](https://www.channelnewsasia.com/news/video-on-demand/why-it-matters-2/art-ificial-intelligence-11045126){:target="_blank"}, Channel News Asia (CNA).
 - [A Smart, Safe Wheelchair for Kids Who Can’t Walk](https://www.technologyreview.com/2012/09/28/183560/a-smart-safe-wheelchair-for-kids-who-cant-walk/), MIT Tech Review, Sept 2012
+
+Harold lives in Singapore with his wife and two lovely children. In his precious free time, he enjoys reading science fiction with a glass of wine.
