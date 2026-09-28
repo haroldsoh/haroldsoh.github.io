@@ -9,9 +9,7 @@ image:
 
 ## Brief Biography
 
-Harold Soh is an Associate Professor of Computer Science at the National University of Singapore, where he leads the [Collaborative Learning and Adaptive Robots (CLeAR) lab](https://clear-nus.github.io/). His research focuses on trustworthy embodied AI: developing reliable, fluent, and safe robots that people can depend on. His work connects understanding human trust with building dependable robotic systems, spanning mathematical foundations, learning and decision-making, tactile perception, and real-world evaluation.
-
-Harold completed his Ph.D. at Imperial College London, where he studied online learning for assistive robots. Before joining NUS, he held postdoctoral appointments at the Singapore-MIT Alliance for Research and Technology and the University of Toronto. He is Director of the Computing Horizons Office at NUS Computing, a Principal Investigator at the Smart Systems Institute, and a co-founder of TacnIQ, a startup developing touch-enabled intelligence.
+Harold Soh is an Associate Professor of Computer Science at the National University of Singapore, where he leads the [Collaborative Learning and Adaptive Robots (CLeAR) lab](https://clear-nus.github.io/). His research focuses on trustworthy embodied AI: reliable, fluent, and safe robots that people can depend on. His work connects understanding human trust with building dependable robots, spanning mathematical foundations, learning algorithms, and physical systems. His recent research explores touch perception for contact-rich interactions and robot policies that can be guided by human goals and constraints. He was awarded an NRF Investigatorship in 2026 and a Robotics: Science and Systems Early Career Spotlight in 2023. His work has been recognized with best paper awards and nominations at IROS’21, IEEE TAFFC’21, RSS’18, HRI’18, RecSys’18, and IROS’12. He is also a co-founder of TacnIQ, a startup developing touch-enabled intelligence. Harold obtained his PhD from Imperial College London in 2013, with a thesis on online learning for assistive robotics. He lives in Singapore with his wife and two children, and enjoys reading science fiction with a glass of wine.
 
 ## Honours and Awards
 
@@ -89,5 +87,3 @@ Harold completed his Ph.D. at Imperial College London, where he studied online l
 - BBC Tech Tent Podcast, July 2020
 - [Why It Matters, (Art)ificial Intelligence](https://www.channelnewsasia.com/news/video-on-demand/why-it-matters-2/art-ificial-intelligence-11045126){:target="_blank"}, Channel News Asia (CNA).
 - [A Smart, Safe Wheelchair for Kids Who Can’t Walk](https://www.technologyreview.com/2012/09/28/183560/a-smart-safe-wheelchair-for-kids-who-cant-walk/), MIT Tech Review, Sept 2012
-
-Harold lives in Singapore with his wife and two lovely children. In his precious free time, he enjoys reading science fiction with a glass of wine.
