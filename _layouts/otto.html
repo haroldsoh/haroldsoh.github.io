@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | escape }} — Otto</title>
+  <meta name="description" content="{{ page.description | escape }}">
+  <link rel="canonical" href="https://haroldsoh.com{{ page.url }}">
+  <link rel="icon" type="image/png" href="{{ '/assets/otto/otto-google-120.png' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/otto/otto.css' | relative_url }}">
+  <meta name="theme-color" content="#245ac7">
+</head>
+<body>
+  <a class="skip" href="#content">Skip to content</a>
+  <div class="shell">
+    <header class="header">
+      <a class="brand" href="{{ '/otto/' | relative_url }}" aria-label="Otto home"><img src="{{ '/assets/otto/otto-google-120.png' | relative_url }}" width="40" height="40" alt=""><span>Otto</span></a>
+      <nav aria-label="Otto"><a href="{{ '/otto/privacy/' | relative_url }}"{% if page.url == '/otto/privacy/' %} aria-current="page"{% endif %}>Privacy</a><a href="{{ '/otto/terms/' | relative_url }}"{% if page.url == '/otto/terms/' %} aria-current="page"{% endif %}>Terms</a><a href="{{ '/' | relative_url }}">Harold Soh <span aria-hidden="true">↗</span></a></nav>
+    </header>
+    <main id="content"{% unless page.otto_home %} class="document"{% endunless %}>
+      {% unless page.otto_home %}<p class="eyebrow">Otto for Mac</p><h1>{{ page.title | escape }}</h1><p class="updated">Last updated 30 September 2026</p>{% endunless %}
+      {{ content }}
+    </main>
+    <footer><p>A personal software project by <a href="{{ '/' | relative_url }}">Harold Soh</a>.</p><div><a href="{{ '/otto/' | relative_url }}">Otto</a><a href="{{ '/otto/privacy/' | relative_url }}">Privacy policy</a><a href="{{ '/otto/terms/' | relative_url }}">Terms of use</a><a href="{{ '/contact/' | relative_url }}">Contact</a></div></footer>
+  </div>
+</body>
+</html>
